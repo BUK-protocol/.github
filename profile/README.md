@@ -19,7 +19,7 @@ These agents also create meaningful connections by maintaining **memory across i
 
 We believe **travel-focused AI agents** are the revenue-generating assets of the future.  
 
-![BukProtocol](https://buk-general-assets-new.s3.ap-south-1.amazonaws.com/buk-images/buk-protocol-ai-agent.webp)
+![BukProtocol](https://buk-general-assets-new.s3.ap-south-1.amazonaws.com/buk-images/buk-protocol-ai-ecosystem.png)
 
 # BukProtocol AI Agent Ecosystem  
 
